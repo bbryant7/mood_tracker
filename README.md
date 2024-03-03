@@ -20,6 +20,17 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## TODO
+- create view tabs week/month/year
+- create x/y axis labels
+- black out 31 on applicable months
+- add color
+- add hover with day info
+- convert all css to tailwind
+- create/edit forms
+- admin access
+- admin forms for other tracker types
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
