@@ -26,6 +26,20 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+.day {
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+
+}
+
+.week {
+  display: flex;
+}
+.day:hover {
+  cursor: pointer;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
